@@ -8,7 +8,6 @@ Jr. Software Developer
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [tekebatuhan@outlook.com](mailto:tekebatuhan@outlook.com)
 * 🚀  I'm currently working on [Bilsoft Yazılım](http://bilsoft.com.tr)
-* 🧠  I'm currently learning Artificial Intelligence Language Models
 
 <p align="left">
 
